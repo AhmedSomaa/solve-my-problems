@@ -1,3 +1,3 @@
 module.exports = solveProblems = () => {
-    console.log("Feel relieved 😌 All your problems have been solved 👌");
+    console.log("Relax 😌 All your problems have been solved 👌");
 }

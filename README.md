@@ -15,6 +15,6 @@ $ npm i solve-my-problems
 ```js
 const solveProblems = require('solve-my-problems');
 
-solveProblems();
-//=> "Relax 😌 All your problems have been solved 👌"
+solveProblems('Joe');
+//=> "Relax Joe 😌 All your problems have been solved 👌"
 ```

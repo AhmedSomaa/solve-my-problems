@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/AhmedSomaa/solve-my-problems/issues"
   },
-  "homepage": "https://github.com/AhmedSomaa/solve-my-problems#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/solve-my-problems"
-  }
+  "homepage": "https://github.com/AhmedSomaa/solve-my-problems#readme"
 }

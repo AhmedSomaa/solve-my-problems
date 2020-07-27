@@ -1,6 +1,6 @@
 {
   "name": "solve-my-problems",
-  "version": "2.0.0",
+  "version": "1.0.1",
   "description": "Magic package that solves all problems and makes everything ok.",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/AhmedSomaa/solve-my-problems/issues"
   },
-  "homepage": "https://github.com/AhmedSomaa/solve-my-problems#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  }
+  "homepage": "https://github.com/AhmedSomaa/solve-my-problems#readme"
 }

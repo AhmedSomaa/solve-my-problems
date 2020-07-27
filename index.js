@@ -1,3 +1,3 @@
-module.exports = solveProblems = () => {
-    console.log("Relax 😌 All your problems have been solved 👌");
-}
+module.exports = solveProblems = (name) => {
+  console.log(`Relax ${name} 😌 All your problems have been solved 👌`);
+};
